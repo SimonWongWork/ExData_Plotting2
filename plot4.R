@@ -1,5 +1,5 @@
 # Exploratory Data Analysis, Project 2
-# reference from "http://rpubs.com/geekgirl72/24156"
+# acknowledge "http://rpubs.com/geekgirl72/24156" for references.
 
 # Go to Working directory of R studio.
 # Load necessary libary.
